@@ -1,0 +1,12 @@
+---
+output: html_document
+---
+ 
+## About me
+I enjoy analyzing data to answer research questions. I have experience in medical science and a passion for epidemiology and public health with interests in both communicable and non-communicable diseases.  
+My current interests include:  
+* influenza  
+* cardiovascular disease  
+* mortality in Australia  
+* respiratory diseases  
+* musculoskeletal diseases  

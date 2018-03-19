@@ -1,0 +1,19 @@
+
+name: "Anna Reynolds"
+output_dir: "."
+navbar:
+  title: "Anna Reynolds"
+  left:
+  - text: "About"
+    href: about.html
+  - text: "Projects"
+    href: projects.html
+  right:
+  - icon: fa-twitter fa-lg
+    href: https://twitter.com/annareynolds01?s=03
+  - icon: fa-github fa-lg
+    href: https://github.com/aussieanna
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
