@@ -8,6 +8,10 @@ navbar:
     href: about.html
   - text: "Projects"
     href: projects.html
+  - text: "Tableau"
+    href: tableau.html
+  - text: "Blog"
+    href: blog.html
   right:
   - icon: fa-twitter fa-lg
     href: https://twitter.com/annareynolds01?s=03
