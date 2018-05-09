@@ -1,0 +1,16 @@
+---
+output: html_document
+---
+##Projects
+Here are some projects I have been working on in my spare time using R and R Studio. Click on the images to view.
+
+|
+--------------------------------------------- | -----------------------------
+**Deaths in Australia by Primary Health Network** [![Deaths](images/PHNs.png)](PHN_Aust_markdown.html)  | **Weather radials**  [![Weather](images/Weather.png)](CBR_LHI_radial_doc.html) |
+--------------------------------------------- | -----------------------------
+**Cardiovascular disease in Australia** [![CVD](images/CVD.png)](cvd_flex_dash.html)   | **Tobacco in Australia**  [![Tobacco](images/Tobacco.png)](Tobacco_Aust_markdown.html)
+--------------------------------------------- |
+**Shiny app**  
+I made a small Shiny app using Australian deaths data from the MORT (Mortality Over Regions and Time) books.
+
+<iframe src="https://ausdata.shinyapps.io/Mort/" width="600" height="800" frameborder="0"/>

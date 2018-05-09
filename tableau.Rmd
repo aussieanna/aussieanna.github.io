@@ -1,0 +1,21 @@
+---
+output: html_document
+---
+
+## Tableau
+
+I enjoy making data visualisations using Tableau and my Tableau Public profile can be viewed here <https://public.tableau.com/profile/anna2013#!/>.
+
+There are a range of visualisations on a number of different topics that interest me. Here are some of my favourites. Click on the static image to see the interactive version.
+
+### Australian smoking prevalence trends
+[![Smoking prevalence in Australia](images/Tobtab.png)](https://public.tableau.com/profile/anna2013#!/vizhome/Australiansmokingprevalencetrends/Australiansmokingprevalence)
+
+### Stroke deaths in the US
+[![Stroke deaths map](images/stroke.png)](https://public.tableau.com/profile/anna2013#!/vizhome/USstrokedeaths/Dashboard)
+
+### NHMRC funding 2017
+[![NHMRC funding winners](images/nhmrc.png)](https://public.tableau.com/profile/anna2013#!/vizhome/NHMRCGrantFunding2017/NHMRCGrantFunding2017)
+
+### Average life expectancy world regions
+[![Average life expectancy line charts](images/Life_exp.png)](https://public.tableau.com/profile/anna2013#!/vizhome/AverageLifeExpectancyRegionandIncome/Dashboard2)

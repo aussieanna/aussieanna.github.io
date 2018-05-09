@@ -5,8 +5,25 @@ output: html_document
 ## About me
 I enjoy analyzing data to answer research questions. I have experience in medical science and a passion for epidemiology and public health with interests in both communicable and non-communicable diseases.  
 My current interests include:  
-* influenza  
-* cardiovascular disease  
-* mortality in Australia  
-* respiratory diseases  
-* musculoskeletal diseases  
+    **Influenza**   
+    **Cardiovascular disease**  
+    **Mortality in Australia**  
+    **Respiratory diseases**  
+    **Musculoskeletal diseases**  
+
+
+### Education   <img src="images/Aus.jpg" style=width:50% align="right">  
+**Master of Applied Epidemiology**  
+National Centre for Epidemiology and Public Health,   
+Australian National University
+
+
+**PhD (Medical Science)**  
+Division of Neuroscience, Developmental Neurobiology Group,  
+John Curtin School of Medical Research, ANU  
+
+**Bachelor of Science (Hons) First Class Honours**  
+ANU
+
+**Bachelor of Appl. Sci. (Medical Laboratory Science)**  
+University of Canberra  

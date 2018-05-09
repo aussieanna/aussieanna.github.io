@@ -1,0 +1,15 @@
+---
+output: html_document
+---
+
+### Cartography course - free
+#### 19 Mar 2018
+There is an online course on cartography being run by esri which will probably be quite good. Information about registration can be found [here](https://www.esri.com/training/catalog/596e584bb826875993ba4ebf/cartography/?adumkts=gbd&aduse=education&aduin=higher_ed&aduc=email&adum=training&utm_Source=email&aduca=GBD18Higher_Ed_MOOC_Cartography&aduco=CARTO_Map_Reg3&adut=234521_CARTO_Reg3_MapLovers).  It runs from April 18 to May 29, 2018.
+
+### Spatial analysis MOOC
+#### 8 Jan 2017
+I recently completed a MOOC run by esri on [Spatial Analysis](http://www.esri.com/mooc/going-places) and it was excellent. I can highly recommend it and they are running the course again in April. It runs for 6 weeks and provides a nice introduction to ArcGIS online. 
+
+### Data Exploration and Storytelling
+#### 21 Dec 2016
+When I first became interested in data viz I did a MOOC run by Alberto Cairo and it was really enjoyable. In 2017 the Knight Center for Journalism in the Americas is running a MOOC called Data Exploration and Storytelling: Finding Stories in Data with Exploratory Analysis and Visualization. Check it out [here](http://journalismcourses.org/DES17.html), it should be good. So far the first 1000 people who have registered come from 81 different countries. The course starts on 16 January 2017.
