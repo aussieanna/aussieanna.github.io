@@ -5,12 +5,15 @@ output: html_document
 ## About me
 I enjoy analyzing data to answer research questions. I have experience in medical science and a passion for epidemiology and public health with interests in both communicable and non-communicable diseases.  
 My current interests include:  
-    **Influenza**   
+    **Burden of disease** 
     **Cardiovascular disease**  
     **Mortality in Australia**  
     **Respiratory diseases**  
-    **Musculoskeletal diseases**  
+    **Musculoskeletal diseases**
+    **Influenza** 
 
+### Visual CV   
+<img src="images/Anna_Reynolds_VisualCV2.jpeg">
 
 ### Education   <img src="images/Aus.jpg" style=width:50% align="right">  
 **Master of Applied Epidemiology**  
@@ -26,4 +29,8 @@ John Curtin School of Medical Research, ANU
 ANU
 
 **Bachelor of Appl. Sci. (Medical Laboratory Science)**  
-University of Canberra  
+University of Canberra
+
+
+[**Download full CV here**](https://github.com/aussieanna/aussieanna.github.io/blob/master/Anna_Reynolds_CV.pdf)
+
