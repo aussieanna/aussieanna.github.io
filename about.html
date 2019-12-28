@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title></title>
+<title>about.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -72,9 +72,7 @@ h6 {
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -88,7 +86,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -193,8 +190,6 @@ $(document).ready(function () {
 });
 </script>
 
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
 
 <style type="text/css">
@@ -239,6 +234,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -251,20 +247,17 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -320,17 +313,20 @@ $(document).ready(function () {
 </div>
 
 
+<p><br></p>
 <div id="about-me" class="section level2">
 <h2>About me</h2>
-<p>I enjoy analyzing data to answer research questions. I have experience in medical science and a passion for epidemiology and public health with interests in both communicable and non-communicable diseases.<br />
+<p>I enjoy analysing data to answer research questions. I have experience in medical science and a passion for epidemiology and public health with interests in both communicable and non-communicable diseases.<br />
 My current interests include:<br />
-<strong>Burden of disease</strong> <strong>Cardiovascular disease</strong><br />
-<strong>Mortality in Australia</strong><br />
-<strong>Respiratory diseases</strong><br />
-<strong>Musculoskeletal diseases</strong> <strong>Influenza</strong></p>
+- <strong>Burden of disease</strong><br />
+- <strong>Cardiovascular disease</strong><br />
+- <strong>Mortality in Australia</strong><br />
+- <strong>Respiratory disease</strong><br />
+- <strong>Musculoskeletal diseases</strong><br />
+- <strong>Influenza</strong></p>
 <div id="visual-cv" class="section level3">
 <h3>Visual CV</h3>
-<p><img src="images/Anna_Reynolds_VisualCV2.jpeg"></p>
+<p><img src="images/Anna_Reynolds_VisualCV3.jpeg"></p>
 </div>
 <div id="education" class="section level3">
 <h3>Education <img src="images/Aus.JPG" style=width:50% align="right"></h3>
@@ -344,7 +340,7 @@ John Curtin School of Medical Research, ANU</p>
 ANU</p>
 <p><strong>Bachelor of Appl. Sci. (Medical Laboratory Science)</strong><br />
 University of Canberra</p>
-<p><a href="https://github.com/aussieanna/aussieanna.github.io/blob/master/Anna_Reynolds_CV.pdf"><strong>Download full CV here</strong></a></p>
+<p><a href="Anna_Reynolds_CV.pdf"><strong>Download full CV here (pdf)</strong></a></p>
 </div>
 </div>
 
@@ -365,6 +361,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

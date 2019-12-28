@@ -1,19 +1,20 @@
 ---
 output: html_document
 ---
- 
+<br>  
+
 ## About me
-I enjoy analyzing data to answer research questions. I have experience in medical science and a passion for epidemiology and public health with interests in both communicable and non-communicable diseases.  
-My current interests include:  
-    **Burden of disease** 
-    **Cardiovascular disease**  
-    **Mortality in Australia**  
-    **Respiratory diseases**  
-    **Musculoskeletal diseases**
-    **Influenza** 
+I enjoy analysing data to answer research questions. I have experience in medical science and a passion for epidemiology and public health with interests in both communicable and non-communicable diseases.  
+My current interests include:   
+- __Burden of disease__  
+-  __Cardiovascular disease__  
+-  __Mortality in Australia__  
+-  __Respiratory disease__  
+-  __Musculoskeletal diseases__  
+-  __Influenza__
 
 ### Visual CV   
-<img src="images/Anna_Reynolds_VisualCV2.jpeg">
+<img src="images/Anna_Reynolds_VisualCV3.jpeg">
 
 ### Education   <img src="images/Aus.jpg" style=width:50% align="right">  
 **Master of Applied Epidemiology**  
@@ -32,5 +33,5 @@ ANU
 University of Canberra
 
 
-[**Download full CV here**](https://github.com/aussieanna/aussieanna.github.io/blob/master/Anna_Reynolds_CV.pdf)
+[**Download full CV here (pdf)**](Anna_Reynolds_CV.pdf)
 
